@@ -1,0 +1,5 @@
+﻿  1-4.c
+C:\Users\이태훈\Documents\2022-1-해달 부트캠프\2022-1-haedal\Project1\Project1\1-4.c(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이태훈\Documents\2022-1-해달 부트캠프\2022-1-haedal\Project1\Project1\1-4.c(24,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\이태훈\Documents\2022-1-해달 부트캠프\2022-1-haedal\Project1\Project1\1-4.c(28,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> C:\Users\이태훈\Documents\2022-1-해달 부트캠프\2022-1-haedal\Project1\x64\Debug\Project1.exe
